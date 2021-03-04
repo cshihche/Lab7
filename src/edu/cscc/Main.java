@@ -1,7 +1,9 @@
 package edu.cscc;
 
 import java.util.*;
-
+/*
+Name: Carl Shihche
+ */
 /**
  * Main for Rock, Paper, Scissors, Lizard, Spock
  */
